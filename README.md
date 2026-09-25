@@ -11,3 +11,7 @@
 ## 运行
 pip install -r requirements.txt
 python app.py
+
+## 截图
+![游戏进行中](screenshots/playing.png)
+![游戏结束](screenshots/gameover.png)
